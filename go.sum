@@ -47,6 +47,8 @@ github.com/cloudwebrtc/go-protoo v0.0.0-20200602160428-0a199e23f7e0 h1:7lmqBSdb1
 github.com/cloudwebrtc/go-protoo v0.0.0-20200602160428-0a199e23f7e0/go.mod h1:Q0DiItmsD5iCBdeID9Xu03ok8bemc78XJ+0rYATQbuQ=
 github.com/cloudwebrtc/go-protoo v0.0.0-20200926140535-79ecde67b906 h1:CXJrfUVNhSAKWnb+oSvd8MBCQJHK6+RS7jLvx2z3ba0=
 github.com/cloudwebrtc/go-protoo v0.0.0-20200926140535-79ecde67b906/go.mod h1:Q0DiItmsD5iCBdeID9Xu03ok8bemc78XJ+0rYATQbuQ=
+github.com/cloudwebrtc/go-protoo v1.0.0 h1:7Pz/hUT3ZjLQU0Uvku07OACA/E/ucHSEKHhFEoJfPoQ=
+github.com/cloudwebrtc/go-protoo v1.0.0/go.mod h1:B8uQDC/U3kLIgm2lnot++L6npq2dIIaURj8xqGi4ZFc=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/coreos/bbolt v1.3.2/go.mod h1:iRUV2dpdMOn7Bo10OQBFzIJO9kkE559Wcmn+qkEiiKk=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
@@ -184,6 +186,7 @@ github.com/lherman-cs/opus v0.0.0-20200223204610-6a4b98199ea4 h1:2ydMA2KbxRkYmIw
 github.com/lherman-cs/opus v0.0.0-20200223204610-6a4b98199ea4/go.mod h1:v9KQvlDYMuvlwniumBVMlrB0VHQvyTgxNvaXjPmTmps=
 github.com/lherman-cs/opus v0.0.0-20200925065115-26ea9d322d39 h1:WEYmSwg/uoPVmfmpXWPYplb1UUx/Jr4TXGNrPaI8Cj4=
 github.com/lherman-cs/opus v0.0.0-20200925065115-26ea9d322d39/go.mod h1:v9KQvlDYMuvlwniumBVMlrB0VHQvyTgxNvaXjPmTmps=
+github.com/lherman-cs/opus v0.0.2 h1:fE9Du3NKXDBztqvoTd6P2y9eJ9vgIHahGK8yQostnhA=
 github.com/lherman-cs/opus v0.0.2/go.mod h1:v9KQvlDYMuvlwniumBVMlrB0VHQvyTgxNvaXjPmTmps=
 github.com/lucas-clemente/quic-go v0.7.1-0.20190401152353-907071221cf9 h1:tbuodUh2vuhOVZAdW3NEUvosFHUMJwUNl7jk/VSEiwc=
 github.com/lucas-clemente/quic-go v0.7.1-0.20190401152353-907071221cf9/go.mod h1:PpMmPfPKO9nKJ/psF49ESTAGQSdfXxlg1otPbEB2nOw=
@@ -267,6 +270,7 @@ github.com/pion/ion-sfu v1.0.22/go.mod h1:AZxt3MFRpTCFk5a/1rCRSx/YLn4zM4F5f3QoA9
 github.com/pion/ion-sfu v1.0.24 h1:8F0SDX5LNoyNL9jkHG7bXi/ZlYeG4dc6nJpjd7NLoGA=
 github.com/pion/ion-sfu v1.0.24/go.mod h1:I09ZukA5Tn6XxiaDaIUauuZ78DbrWk6CN4w8/qL7Ekc=
 github.com/pion/ion-sfu v1.2.0 h1:3DYO0out8EKUU2ceKcSQy2D31QYBJZyulJYse7jBOHI=
+github.com/pion/ion-sfu v1.4.2 h1:9kzJY/KO2TMDrkewk2KhStAar3mHXjrzzTdeMCR/Guo=
 github.com/pion/logging v0.2.2 h1:M9+AIj/+pxNsDfAT64+MAVgJO0rsyLnoJKCqf//DoeY=
 github.com/pion/logging v0.2.2/go.mod h1:k0/tDVsRCX2Mb2ZEmTqNa7CWsQPc+YYCB7Q+5pahoms=
 github.com/pion/mdns v0.0.4 h1:O4vvVqr4DGX63vzmO6Fw9vpy3lfztVWHGCQfyw0ZLSY=

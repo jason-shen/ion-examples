@@ -3,7 +3,7 @@ module github.com/pion/ion-examples
 go 1.14
 
 require (
-	github.com/cloudwebrtc/go-protoo v0.0.0-20200926140535-79ecde67b906
+	github.com/cloudwebrtc/go-protoo v1.0.0
 	github.com/gen2brain/malgo v0.10.19 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/websocket v1.4.2
